@@ -1,0 +1,22 @@
+Задание 2:
+cd C:\labrab\A2\B1\C1
+copy con 1.txt
+fdas
+wsadgdsg
+fsadr
+F6 (обрыв строки и сохранение файла)
+copy con 2.txt
+fafgfsd
+gdjrtjh
+fwsteasts
+F6 (обрыв строки и сохранение файла)
+cd C:\labrab\A2\B1\C2
+copy con 3.doc
+gsdgkdsgk
+fdsfgsdg
+dsafwer
+F6 (обрыв строки и сохранение файла)
+
+copy C:\labrab\A2\B1\C1\1.txt + C:\labrab\A2\B1\C1\2.txt + C:\labrab\A2\B1\C2\3.doc C:\labrab\my.dat
+cd C:\labrab\A2\B1\C1
+ren *.txt *.cpp
