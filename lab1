@@ -1,0 +1,8 @@
+cd C:/
+md labrab
+cd labrab
+md A1 A2
+cd A2
+md B1 B2
+cd B1
+md C1 C2
